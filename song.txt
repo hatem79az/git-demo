@@ -1,2 +1,3 @@
 Hi , this is a test
-and now we learn how to pull from remote
+and now we learn how to pull from remote.
+Third is to learn git gui&
